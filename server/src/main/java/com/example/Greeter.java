@@ -15,7 +15,7 @@ public class Greeter {
 /**
 *@param someone name 
 *@return greetinf
-sadasthis is a comment
+*sadasthis is a comment
 **/
 
   public final String greet(final String someone) {
