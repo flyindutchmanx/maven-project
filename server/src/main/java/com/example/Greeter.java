@@ -11,7 +11,10 @@ public class Greeter {
   public Greeter() {
 
   }
+
 /**
+*@param someone name 
+*@return greetinf
 sadasthis is a comment
 **/
 
