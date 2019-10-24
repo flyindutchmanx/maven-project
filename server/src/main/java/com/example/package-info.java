@@ -2,4 +2,4 @@
 this is oackage file
 **/
 
-package example.com
+package example.com;
